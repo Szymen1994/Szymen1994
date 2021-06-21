@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Szymon Wojcik
+- 👋 Hi, my name is Szymon Wojcik
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front-end, SEO
 - 📫 My e@mail adress: swojcik1994@gmail.com
