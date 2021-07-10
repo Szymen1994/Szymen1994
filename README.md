@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Szymon Wojcik
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front-end, SEO
+- 🌱 I’m currently learning Front-end, SEO, UX/UI
 - 📫 My e@mail adress: swojcik1994@gmail.com
 
 <!---
