@@ -26,7 +26,9 @@
 <br />
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Szymen1994)](https://github.com/anuraghazra/github-readme-stats&hide=,stars,contribs,issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Szymen1994&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Szymen1994&hide=,stars,contribs,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <br />
 
