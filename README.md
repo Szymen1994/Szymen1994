@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Szymon Wojcik
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React on Scrimba
 - 👀 I’m interested in Web Development
 - :mortar_board: I’m on third year of studying Web Development at WSIZ Bielsko-Biala
 - 🔭 I've launched my first fully responsive website for a real company [agromarket][website]!
