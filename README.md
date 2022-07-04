@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Szymon Wojcik
-- 🌱 I’m currently learning React on Scrimba
+- 🌱 I’m currently learning Vue
 - 👀 I’m interested in Web Development
 - :mortar_board: I’m on third year of studying Web Development at WSIZ Bielsko-Biala
 - 🔭 I've launched my first fully responsive website for a real company [agromarket][website]!
@@ -33,5 +33,5 @@
 <br />
 
 [e-mail]: swojcik1994@gmail.com
-[website]: https://stronatestowa.agromarket-szczekociny.pl
+[website]: https://agromarket-szczekociny.pl/
 [facebook]: https://www.facebook.com/szymon.wojcik.7169
