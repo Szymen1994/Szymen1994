@@ -1,4 +1,5 @@
 ## 👋 Hi there, I'm Szymon Wojcik
+- 💻 I'm working as Network specialist for IMGarena
 - 🌱 I’m currently learning Vue
 - 👀 I’m interested in Web Development
 - :mortar_board: I’m on third year of studying Web Development at WSIZ Bielsko-Biala
