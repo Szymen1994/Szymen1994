@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web Development
 - :mortar_board: I’m on third year of studying Web Development at WSIZ Bielsko-Biala
 - 🔭 I've launched my first fully responsive website for a real company [agromarket][website]!
-- 🥅 2022 Goals: Do 3 fully responsive websites for a real companies.
+- 🥅 2023 Goals: Do 3 fully responsive websites for a real companies.
 - ⚡ Fun fact: I love to play guitar / drums
 - 📫 My e@mail adress: swojcik1994@gmail.com
 
